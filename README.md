@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akrai007
+- 👋 Hi, I’m Abhishek Rai aka AB
 - 👀 I’m interested in learning the latest technological advancemtns around the globe. Trying to gather and explore knowledge from all possible sources available.
 - 🌱 I’m currently learning current industry standards techniques for Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Datat Science and ML projects.
